@@ -1,6 +1,6 @@
 #### Dicionário de dados
 
-* `customerID`: número de identificação único de cada cliente
+* 'customerID': número de identificação único de cada cliente
 * `Churn`: se o cliente deixou ou não a empresa 
 * `gender`: gênero (masculino e feminino) 
 * `SeniorCitizen`: informação sobre um cliente ter ou não idade igual ou maior que 65 anos 
